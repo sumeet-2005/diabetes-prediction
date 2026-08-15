@@ -2,12 +2,12 @@
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![GitHub Release](https://img.shields.io/github/v/release/mdsaad31/diabetes-prediction)
-![Last Commit](https://img.shields.io/github/last-commit/mdsaad31/diabetes-prediction)
-![Code Size](https://img.shields.io/github/languages/code-size/mdsaad31/diabetes-prediction)
-![Repo Size](https://img.shields.io/github/repo-size/mdsaad31/diabetes-prediction)
-![Open Issues](https://img.shields.io/github/issues/mdsaad31/diabetes-prediction)
-![Contributors](https://img.shields.io/github/contributors/mdsaad31/diabetes-prediction)
+![GitHub Release](https://img.shields.io/github/v/release/sumeet-2005/diabetes-prediction)
+![Last Commit](https://img.shields.io/github/last-commit/sumeet-2005/diabetes-prediction)
+![Code Size](https://img.shields.io/github/languages/code-size/sumeet-2005/diabetes-prediction)
+![Repo Size](https://img.shields.io/github/repo-size/sumeet-2005/diabetes-prediction)
+![Open Issues](https://img.shields.io/github/issues/sumeet-2005/diabetes-prediction)
+![Contributors](https://img.shields.io/github/contributors/sumeet-2005/diabetes-prediction)
 
 A machine learning system that predicts diabetes risk with 85% accuracy, featuring an intuitive web interface with detailed risk analysis and personalized health recommendations.
 
@@ -29,7 +29,7 @@ A machine learning system that predicts diabetes risk with 85% accuracy, featuri
 ### Steps
 1. Clone the repository:
 ```bash
-git clone https://github.com/mdsaad31/diabetes-prediction.git
+git clone https://github.com/sumeet-2005/diabetes-prediction.git
 cd diabetes-prediction
 ```
 2. Install dependencies:
@@ -119,12 +119,12 @@ Please make sure your code follows the existing style and passes all tests. Refe
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-**Md Saad**  
-📧 Email: [mohammedsaad0462@gmail.com](mailto:mohammedsaad0462@gmail.com)  
-💼 GitHub: [@mdsaad31](https://github.com/mdsaad31) 
+**Sumeet Biradar**  
+📧 Email: [sumeetbiradar444@gmail.com](mailto:sumeetbiradar444@gmail.com)  
+💼 GitHub: [@sumeet-2005](https://github.com/sumeet-2005) 
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/mdsaad31/diabetes-prediction?style=social)
-![GitHub forks](https://img.shields.io/github/forks/mdsaad31/diabetes-prediction?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/mdsaad31/diabetes-prediction?style=social)
+![GitHub stars](https://img.shields.io/github/stars/sumeet-2005/diabetes-prediction?style=social)
+![GitHub forks](https://img.shields.io/github/forks/sumeet-2005/diabetes-prediction?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/sumeet-2005/diabetes-prediction?style=social)
